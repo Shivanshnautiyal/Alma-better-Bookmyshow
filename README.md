@@ -1,4 +1,6 @@
+
 #About our App
+
 This App is Made to Provide easy use access to choose Movie Tickets .
 U will get information about Movies , seat Number and time all in one place. 
 No need to Physically Purchase Tickets.
@@ -9,6 +11,12 @@ Happy to share my Project From Almabetter .
 
 This programme is made Using React library.
 Taiwind CSS.
+use npm install -D tailwindcss
+or
+npx tailwindcss init
+to download Tailwind in you're project .
+ 
+MongoDB .
 
 
 # Getting Started with Create React App
