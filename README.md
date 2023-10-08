@@ -1,3 +1,16 @@
+#About our App
+This App is Made to Provide easy use access to choose Movie Tickets .
+U will get information about Movies , seat Number and time all in one place. 
+No need to Physically Purchase Tickets.
+AS movie lovers i hope u enjoy this little project.
+Happy to share my Project From Almabetter .
+
+#Tech
+
+This programme is made Using React library.
+Taiwind CSS.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -39,7 +52,8 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-
+.env
+ make sure you're password in env file is not visible on github.
 
 ### Deployment
 
